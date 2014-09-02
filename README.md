@@ -4,7 +4,7 @@ GestureLock
 an Android Style GestureLock that auto locks activity.
 <p><p>
 Based on 7heaven's <a href="https://github.com/7heaven/GestureLock">GestureLock</a>, 
-GestureLockUtils was added to store gesture in sharedpreferences, and it also can help config GestureView not draw gesture track while unlocking like Alipay Wallet.<p> 
+GestureLockUtils was added to store gesture in sharedpreferences, and it also can help configuring GestureView not to draw gesture track while unlocking like Alipay Wallet.<p> 
 If your activity extends AutoLockActionBarActivity, it will automatically lock itself up while it is covered or minimized.<p>
 
 
