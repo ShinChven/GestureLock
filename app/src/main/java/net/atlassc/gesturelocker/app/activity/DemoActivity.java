@@ -5,7 +5,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import net.atlassc.gesturelocker.app.R;
 
-public class DemoActivity extends BaseActionBarActivity {
+public class DemoActivity extends AutoLockActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -11,7 +11,7 @@ import net.atlassc.gesturelocker.app.widget.GestureLockUtils;
 /**
  * Created by ShinChven on 14/9/1.
  */
-public class BaseActionBarActivity extends ActionBarActivity {
+public class AutoLockActionBarActivity extends ActionBarActivity {
 
 
     private static final String TAG = "BaseActionBarActivity";

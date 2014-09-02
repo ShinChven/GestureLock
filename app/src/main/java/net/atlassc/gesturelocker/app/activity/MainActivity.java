@@ -9,7 +9,7 @@ import android.widget.Toast;
 import net.atlassc.gesturelocker.app.R;
 
 
-public class MainActivity extends BaseActionBarActivity implements View.OnClickListener {
+public class MainActivity extends AutoLockActionBarActivity implements View.OnClickListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
